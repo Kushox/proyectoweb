@@ -1,0 +1,29 @@
+a{
+    text-decoration: underline;
+    color: #0d6efd;
+}
+
+a:hover{  
+    color: blue;
+}
+
+/*titulo quienes somos y objetivo de la tienda*/
+#titulo-fundacion{
+    text-align: center;
+}
+
+/*Informacion quienes somos y objetivo de la tienda*/
+#texto-principal{
+    text-align: center;
+    color: #000;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+#barra-mapa{
+    padding-bottom: 5%;
+}
+
+
+
